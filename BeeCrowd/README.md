@@ -1,0 +1,3 @@
+Essa pasta é destinada para alunos da Faculdade Impacta de Tecnologia, com o propósito de: 
+Sabemos que o BeeCrowd, é um mal leitor de códigos. Então se o seu código estiver certo ao ser interpretado, mas ao jogar no BeeCrowd recebe erro, fizemos tal solução para esse problema! Espero que seja de grande ajuda e não utilize ao seu favor como método de cola. 
+Um programador que não possui uma boa lógica, não é um verdadeiro programador.
